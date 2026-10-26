@@ -1,0 +1,11 @@
+{
+  "portal": "bank-clerk",
+  "displayName": "Bank Clerk Exam",
+  "sample": true,
+  "badge": { "text": "BCE", "color": "#0E6B06" },
+  "source": "SAMPLE - replace with official notification URL",
+  "verifiedOn": "[date]",
+  "photo": { "px": [200, 230], "kb": [15, 40], "format": "jpeg", "background": "white", "face": { "count": 1, "minHeightRatio": 0.45, "maxHeightRatio": 0.75 } },
+  "signature": { "px": [140, 60], "kb": [8, 25], "format": "jpeg", "background": "white" },
+  "id": { "maxKB": 150, "format": "pdf" }
+}

@@ -1,0 +1,11 @@
+{
+  "portal": "central-recruitment",
+  "displayName": "Central Recruitment Exam",
+  "sample": true,
+  "badge": { "text": "CRE", "color": "#C93A00" },
+  "source": "SAMPLE - replace with the official notification URL",
+  "verifiedOn": "[date]",
+  "photo": { "px": [200, 230], "kb": [20, 50], "format": "jpeg", "background": "white", "face": { "count": 1, "minHeightRatio": 0.5, "maxHeightRatio": 0.8 } },
+  "signature": { "px": [140, 60], "kb": [10, 20], "format": "jpeg", "background": "white" },
+  "id": { "maxKB": 200, "format": "pdf" }
+}

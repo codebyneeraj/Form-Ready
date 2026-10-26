@@ -1,0 +1,11 @@
+{
+  "portal": "railway-recruitment",
+  "displayName": "Railway Recruitment Exam",
+  "sample": true,
+  "badge": { "text": "RRE", "color": "#1D4ED8" },
+  "source": "SAMPLE - replace with official notification URL",
+  "verifiedOn": "[date]",
+  "photo": { "px": [240, 320], "kb": [30, 70], "format": "jpeg", "background": "white", "face": { "count": 1, "minHeightRatio": 0.6, "maxHeightRatio": 0.85 } },
+  "signature": { "px": [180, 70], "kb": [15, 30], "format": "jpeg", "background": "white" },
+  "id": { "maxKB": 300, "format": "pdf" }
+}

@@ -1,0 +1,11 @@
+{
+  "portal": "state-services",
+  "displayName": "State Services Exam",
+  "sample": true,
+  "badge": { "text": "SSE", "color": "#7C3AED" },
+  "source": "SAMPLE - replace with official notification URL",
+  "verifiedOn": "[date]",
+  "photo": { "px": [413, 531], "kb": [40, 100], "format": "jpeg", "background": "white", "face": { "count": 1, "minHeightRatio": 0.55, "maxHeightRatio": 0.8 } },
+  "signature": { "px": [256, 64], "kb": [5, 15], "format": "jpeg", "background": "white" },
+  "id": { "maxKB": 500, "format": "pdf" }
+}
